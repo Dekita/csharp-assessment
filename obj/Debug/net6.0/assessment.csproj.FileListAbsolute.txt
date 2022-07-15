@@ -1,0 +1,15 @@
+E:\college-c#\assessment\bin\Debug\net6.0\assessment.exe
+E:\college-c#\assessment\bin\Debug\net6.0\assessment.deps.json
+E:\college-c#\assessment\bin\Debug\net6.0\assessment.runtimeconfig.json
+E:\college-c#\assessment\bin\Debug\net6.0\assessment.dll
+E:\college-c#\assessment\bin\Debug\net6.0\ref\assessment.dll
+E:\college-c#\assessment\bin\Debug\net6.0\assessment.pdb
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.csproj.AssemblyReference.cache
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.GeneratedMSBuildEditorConfig.editorconfig
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.AssemblyInfoInputs.cache
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.AssemblyInfo.cs
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.csproj.CoreCompileInputs.cache
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.dll
+E:\college-c#\assessment\obj\Debug\net6.0\ref\assessment.dll
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.pdb
+E:\college-c#\assessment\obj\Debug\net6.0\assessment.genruntimeconfig.cache
